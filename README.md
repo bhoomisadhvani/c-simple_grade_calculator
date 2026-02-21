@@ -1,6 +1,8 @@
 <img width="1112" height="949" alt="Screenshot 2026-02-16 171444" src="https://github.com/user-attachments/assets/3d0a5cfe-4f12-498a-8398-ef5edbc88679" />
 <img width="1127" height="979" alt="Screenshot 2026-02-16 171421" src="https://github.com/user-attachments/assets/cce888b6-ced4-46ff-9602-48f624d3e60c" />
 <img width="1222" height="960" alt="Screenshot 2026-02-16 171351" src="https://github.com/user-attachments/assets/10669378-061a-4a5e-8a2d-8b92d05cfd8f" />
+<img width="1511" height="1002" alt="Screenshot 2026-02-21 171342" src="https://github.com/user-attachments/assets/7c1d5328-7017-4194-a073-06e2c93609d2" />
+
 
 🎓 Student Grade Evaluation Program (C Language)
 📌 Description
